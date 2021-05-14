@@ -8,3 +8,4 @@ ok back from that weird branch thing
  - Mark was here?
 
 - There is a chance that Ari was here!
+-Testing if commits need tokens every time? I guess?
